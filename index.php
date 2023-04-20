@@ -18,7 +18,7 @@
         <tr class= 'impair'>
             <td><b><i> Gérer le patrimoine informatique </i></b></td>
             <td>  <div class="wrapper">
-  <a class="cta" href="#">
+  <a class="cta" href="gérer_le_patrimoine_informatique.php">
     <span><b><i>VOIR PLUS</i></b></span>
     <span>
       <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -35,7 +35,7 @@
         <tr class= 'pair'>
             <td><b><i> Répondre aux incidents et aux demandes d’assistance et d’évolution </i></b></td>
             <td>  <div class="wrapper">
-  <a class="cta2" href="#">
+  <a class="cta2" href="repondre_aux_incidents.php">
     <span><b><i>VOIR PLUS</i></b></span>
     <span>
       <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -52,7 +52,7 @@
         <tr class= 'impair'>
             <td><b><i> Développer la présence en ligne de l’organisation </i></b></td>
             <td>  <div class="wrapper">
-  <a class="cta" href="#">
+  <a class="cta" href="developper_presence.php">
     <span><b><i>VOIR PLUS</i></b></span>
     <span>
       <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -69,7 +69,7 @@
         <tr class= 'pair'>
             <td><b><i> Travailler en mode projet </i></b></td>
             <td>  <div class="wrapper">
-  <a class="cta2" href="#">
+  <a class="cta2" href="travailler_en_mode_project.php">
     <span><b><i>VOIR PLUS</i></b></span>
     <span>
       <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -86,7 +86,7 @@
         <tr class= 'impair'>
             <td><b><i> Mettre à disposition des utilisateurs un service informatique </i></b></td>
             <td>  <div class="wrapper">
-  <a class="cta" href="#">
+  <a class="cta" href="mettre_des_services_info.php">
     <span><b><i>VOIR PLUS</i></b></span>
     <span>
       <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -103,7 +103,7 @@
         <tr class= 'pair'>
             <td><b><i> Organiser son développement professionnel </i></b></td>
             <td>  <div class="wrapper">
-  <a class="cta2" href="#">
+  <a class="cta2" href="organiser_dev_pro.php">
     <span><b><i>VOIR PLUS</i></b></span>
     <span>
       <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
