@@ -9,6 +9,7 @@
 </head>
 <body>
 <div class = 'back' >
+<h1>Mettre à disposition des utilisateurs un service informatique</h1>
     <br><br>
     <table>
         <tr class= 'impair'>
@@ -28,6 +29,7 @@
             <td> </td>
         </tr>
     </table>
+    <br><br>
 </div>
 </body>
 </html>
