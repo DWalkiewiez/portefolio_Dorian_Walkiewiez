@@ -69,7 +69,7 @@ scroll-snap-align: center
                 <img id="slide9" src="img/liste util.PNG" alt>
                 <img id="slide10" src="img/page compte FREDI.PNG" alt>
                 <img id="slide11" src="img/page ligne de frais FREDI.PNG" alt>
-                <img id="slide12" src="img/deconextion FREDI.PNG" alt>
+                <img id="slide12" src="img\deconnexion FREDI.PNG" alt>
                 </div>		
             </td>
         </tr>
