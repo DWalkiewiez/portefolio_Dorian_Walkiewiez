@@ -48,7 +48,7 @@ scroll-snap-align: center
                 <div class="galerie">
                 <img id="slide1" src="img/tableFAQM2L.png" alt>
                 <img id="slide2" src="img/connexionFAQM2L.png" alt>
-                <img id="slide3" src="accueilFAQM2L.png" alt>
+                <img id="slide3" src="img/accueilFAQM2L.png" alt>
                 <img id="slide4" src="img/profilFAQM2L.png" alt>
                 <img id="slide5" src="img/codeFAQM2L.png" alt>
                 </div>		
