@@ -118,10 +118,7 @@
 </div></td>
         </tr>
     </table>
-    <h2>Attestation de stage première année</h2>
-    <img src="img/attestation1.PNG">
-    <h2>Attestation de stage seconde année</h2>
-    <img src="img/attestation2.PNG">
+    <br><br>
 </div>
 </body>
 </html>
