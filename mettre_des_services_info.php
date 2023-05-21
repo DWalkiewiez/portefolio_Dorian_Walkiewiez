@@ -59,13 +59,13 @@ scroll-snap-align: center
             <td>
                 <div class="galerie">
                 <img id="slide1" src="img/tableFREDI.png" alt>
-                <img id="slide2" src="img/page de conneection fredi.PNG" alt>
+                <img id="slide2" src="img/page de connection fredi.PNG" alt>
                 <img id="slide3" src="img/code connexion.PNG" alt>
                 <img id="slide4" src="img/modifier ligne.PNG" alt>
                 <img id="slide5" src="img/formulaire FREDI.PNG" alt>
                 <img id="slide6" src="img/code modifier ligne de frais.PNG" alt>
-                <img id="slide7" src="img/ligne de frais.PNG" alt>
-                <img id="slide8" src="img/liste des utilisateurs.PNG" alt>
+                <img id="slide7" src="img/liste ligne frais.PNG" alt>
+                <img id="slide8" src="img/liste des utilisateur FREDI.PNG" alt>
                 <img id="slide9" src="img/liste util.PNG" alt>
                 <img id="slide10" src="img/page compte FREDI.PNG" alt>
                 <img id="slide11" src="img/page ligne de frais FREDI.PNG" alt>
