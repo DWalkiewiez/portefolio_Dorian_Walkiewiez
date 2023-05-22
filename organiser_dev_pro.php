@@ -46,9 +46,8 @@ scroll-snap-align: center
                 <body>
                 <div class="galerie">
                 <img id="slide1" src="img\veilleflipboard.png" alt>
-                <img id="slide2" src="img\veillemsn.png" alt>
-                <img id="slide3" src="img\veillezdnet.png" alt>
-                <img id="slide4" src="img\veilledoc.png" alt>
+                <img id="slide2" src="img\veillezdnet.png" alt>
+                <img id="slide3" src="img\veilledoc.png" alt>
                 </div>	
             </td>
         </tr>
